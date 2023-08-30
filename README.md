@@ -1,0 +1,2 @@
+# bang
+learning 2
